@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey everyone 👋
 
 <!--
 **qd9069/qd9069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**I'm Qiling Deng, welcome to my GitHub profile!** 
+---
+- 🌱 I’m currently learning web development and programming to become a full-stack developer 🌱
+- 📫 How to reach me: qdengliao@gmail.com 📫
+- ⚡ Fun Facts about me: I like coding. I am a big fan of japanese anime and I like snowboarding ⚡
+ 
+![Professortocat_v2](https://user-images.githubusercontent.com/23129956/168734739-6cc49d16-5c68-4b6e-ab5e-720000620fcc.png)
