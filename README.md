@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![gitimage](https://user-images.githubusercontent.com/23129956/168737201-30fd1cb4-54bc-4a9d-8e75-a376b58e6b61.png)
+
 **I'm Qiling Deng, welcome to my GitHub profile!** 
 ---
 - 🌱 I’m currently learning web development and programming to become a full-stack developer 🌱
 - 📫 How to reach me: qdengliao@gmail.com 📫
 - ⚡ Fun Facts about me: I like coding. I am a big fan of japanese anime and I like snowboarding ⚡
  
-![Professortocat_v2](https://user-images.githubusercontent.com/23129956/168734739-6cc49d16-5c68-4b6e-ab5e-720000620fcc.png)
